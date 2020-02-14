@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>Model</title>
+</head>
+<body>
+<h1>SERVICE MODEL</h1>
+<p>Infrastructure as a service of the physical infrastructure of IT third party provider.The IaaS provider also supplies a range of services to accompany those infrastructure components. These can include detailed billing, monitoring, log access, security, load balancing and clustering, as well as storage resiliency, such as backup  replication and recovery. These services are increasingly policy-driven, enabling IaaS users to implement greater levels of automation and orchestration for important infrastructure tasks.
+</body>
+</html>
